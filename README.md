@@ -7,3 +7,5 @@ Task Sheduler:
 - program: powershell
 - add arguments: "path to script"
 - start in: "folder to create script"
+
+Else see shortcut attached
